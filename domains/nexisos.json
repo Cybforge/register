@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "Cybforge",
+    "email": "jonas169@outlook.de"
+  },
+  "record": {
+    "CNAME": "nexisos.netlify.app",
+    "MX": [
+      "10 route1.mx.cloudflare.net",
+      "20 route2.mx.cloudflare.net",
+      "30 route3.mx.cloudflare.net"
+    ]
+  }
+}
